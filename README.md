@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, energy markets, and data viz
 - 🌱 I’m currently learning docker and containerisation
 - 💞️ I’m looking to collaborate on any interesting data
-- 📫 How to reach me:  twitter > @bell_eamonn  or  eamonnbell@gmail.com
+- 📫 How to reach me:  twitter >   or  email
 
 <!---
 eamonn-bell/eamonn-bell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
